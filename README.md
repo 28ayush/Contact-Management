@@ -10,6 +10,6 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [Demo](https://master--con-tacts.netlify.app/) to view
 
-Open [Demo](https://incandescent-flan-f8ba98.netlify.app/) to view
 
